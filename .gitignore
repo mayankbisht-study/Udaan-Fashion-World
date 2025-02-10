@@ -19,9 +19,6 @@ dist/
 .vite
 .cache
 
-# Static build files
-*.html
-
 # Temp files
 temp/
 *.tmp
